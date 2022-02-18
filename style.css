@@ -102,3 +102,31 @@ body
     margin-bottom: 40px;
     transform: translateY(8px)
 }
+
+/*---------Seccion de My hobbies-------------*/
+#My_hobbies
+{
+    background:#f8f9fa;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.hobbies-title
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 8%;
+    margin-bottom: 10% s;
+}
+.video-hobbies
+{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#My_hobbies ul li
+{
+    margin: 10px 0;
+}
+#My_hobbies ul ul
+{
+    margin-left: 20px;
+}
