@@ -130,3 +130,37 @@ body
 {
     margin-left: 20px;
 }
+
+/*---------Seccion de My Experience-------------*/
+#My-Experience
+{
+    margin: 100px 0;
+}
+
+.par-exp
+{
+    margin-top: 30px;
+}
+.audio-exp
+{
+    margin-left: 25%;
+}
+/*---------Seccion de Footer-------------*/
+#footer
+{
+    background-image: linear-gradient(to left,#3d3dff,#7777ff);
+    color: #fff;
+}
+.footer-img
+{
+    width: 100%;
+}
+.footer-box 
+{
+    padding: 20px ;
+}
+.footer-box img
+{
+    width: 120px ;
+    margin-bottom: 20px;
+}
